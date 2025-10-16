@@ -4,7 +4,7 @@ An iA Presenter theme based on the IBM Plex typeface.
 
 ## Install the Plex theme
 
-- download the theme from https://github.com/ulfschneider/Plex
+- download the theme from https://github.com/ulfschneider/plex
 - open iA Presenter
 - go to **Settings** -> **Themes**
 - click on **+** and then **Create Theme…**
