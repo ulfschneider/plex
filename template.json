@@ -4,7 +4,7 @@
   "BodyFont": "IBM Plex Sans",
   "Author": "Ulf Schneider",
   "ShortDescription": "A theme based on IBM Plex",
-  "LongDescription": "A theme leveraging the IBM Plex typeface with a vibrant gradient background.",
+  "LongDescription": "A theme based the IBM Plex typeface with a vibrant gradient background.",
   "Css": "plex.css",
   "Version": 1
 }
