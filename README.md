@@ -1,6 +1,6 @@
 # Plex
 
-An iA Presenter theme based on the IBM Plex typeface.
+The iA Presenter theme based on the IBM Plex typeface.
 
 ## Install the Plex theme
 
