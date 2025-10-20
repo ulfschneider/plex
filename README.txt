@@ -7,7 +7,7 @@ Install the Plex theme
 - download the theme from https://github.com/ulfschneider/plex
 - open iA Presenter
 - go to Settings -> Themes
-- click on + and then Create Theme…
+- click on + and then on Create Theme…
 - name the theme Plex
 - right click on the theme and activate Show in Finder
 - delete all files in the new created theme folder
